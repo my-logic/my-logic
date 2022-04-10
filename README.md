@@ -13,6 +13,7 @@
  </div><br>
 
 ## Skills and Tools I use
+<img height="62em" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>
 <img height="62em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img height="62em" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png"/>
 <img height="62em" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"/>
